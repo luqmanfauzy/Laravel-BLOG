@@ -1,0 +1,20 @@
+FEATURES
+
+- login
+- logout
+- register
+- middleware
+- Authentication
+- Authorization
+- search
+- pagination
+- upload image
+- CRUD
+- sweet alert
+- verification email
+- session
+
+cmd to run the project : 
+1.php artisan serve
+2.npm run dev
+
